@@ -1,7 +1,7 @@
 [
     {
         "name": "石丸 達人",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "映像学科",
         "seminar": "シャルルゼミ",
         "title": "創造の空想",
@@ -17,7 +17,7 @@
     },
 	{
         "name": "タン ヤング",
-		"school": "武蔵野美術大学大学院",
+		    "school": "武蔵野美術大学大学院",
         "department": "デザイン情報学コース",
         "seminar": "大石ゼミ",
         "title": "拡張的身体",
@@ -33,7 +33,7 @@
     },
 	{
         "name": "潘 軒翰",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "映像学科",
         "seminar": "",
         "title": "浅眠",
@@ -49,7 +49,7 @@
     },
 	{
         "name": "田中 水都",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "デザイン情報学科",
         "seminar": "大石ゼミ",
         "title": "群れ・同調",
@@ -65,7 +65,7 @@
     },
 	{
         "name": "江頭 陽",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "デザイン情報学科",
         "seminar": "大石ゼミ",
         "title": "sink",
@@ -81,7 +81,7 @@
     },
 	{
         "name": "オウ アカネ",
-		"school": "武蔵野美術大学大学院",
+		    "school": "武蔵野美術大学大学院",
         "department": "映像・写真コース",
         "seminar": "シャルルゼミ",
         "title": "SO WAS THE WORLD CREATED",
@@ -97,7 +97,7 @@
     },
 	{
         "name": "サガワソフィ",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "デザイン情報学科",
         "seminar": "大石ゼミ",
         "title": "City Veins",
@@ -113,7 +113,7 @@
     },
 	{
         "name": "海田 実来・平松 亜弥子",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "デザイン情報学科",
         "seminar": "",
         "title": "Debug",
@@ -129,7 +129,7 @@
     },
 	{
         "name": "山本 実由",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "デザイン情報学科",
         "seminar": "大石ゼミ",
         "title": "犬",
@@ -145,7 +145,7 @@
     },
 	{
         "name": "有賀 里麻・飯窪 真彩",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "デザイン情報学科",
         "seminar": "",
         "title": "魔女のひととき",
@@ -161,7 +161,7 @@
     },
 	{
         "name": "チョウ コウトウ",
-		"school": "武蔵野美術大学大学院",
+		    "school": "武蔵野美術大学大学院",
         "department": "映像・写真コース",
         "seminar": "シャルルゼミ",
         "title": "究竟涅槃",
@@ -177,7 +177,7 @@
     },
 	{
         "name": "リュウ テンキ",
-		"school": "武蔵野美術大学大学院",
+		    "school": "武蔵野美術大学大学院",
         "department": "映像・写真コース",
         "seminar": "シャルルゼミ",
         "title": "Fishbowl",
@@ -193,8 +193,8 @@
     },
 	{
         "name": "リ ホウテイ",
-		"school": "武蔵野美術大学",
-        "department": "映像学科",
+		    "school": "武蔵野美術大学大学院",
+        "department": "映像・写真コース",
         "seminar": "篠原ゼミ",
         "title": "OUROBOROS",
         "videoduration": 270,
@@ -209,7 +209,7 @@
     },
 	{
         "name": "ケイ ヨウ",
-		"school": "武蔵野美術大学大学院",
+		    "school": "武蔵野美術大学大学院",
         "department": "映像・写真コース",
         "seminar": "篠原ゼミ",
         "title": "恐竜都市散歩",
@@ -225,7 +225,7 @@
     },
 	{
         "name": "丸岡 優真",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "デザイン情報学科",
         "seminar": "大石ゼミ",
         "title": "DATEs",
@@ -241,8 +241,8 @@
     },
 	{
         "name": "宮脇 未羽",
-		"school": "武蔵野美術大学",
-        "department": "映像学科",
+		    "school": "武蔵野美術大学大学院",
+        "department": "映像・写真コース",
         "seminar": "山崎ゼミ",
         "title": "地の模様",
         "videoduration": 152,
@@ -257,7 +257,7 @@
     },
 	{
         "name": "冨川 美乃里・大橋 未結",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "映像学科・デザイン情報学科",
         "seminar": "",
         "title": "Lost in TOKYO",
@@ -273,7 +273,7 @@
     },
 	{
         "name": "大加 眞資",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "デザイン情報学科",
         "seminar": "",
         "title": "情報学的万華鏡",
@@ -289,8 +289,8 @@
     },
 	{
         "name": "シュ ウセイ",
-		"school": "武蔵野美術大学",
-        "department": "映像学科",
+		    "school": "武蔵野美術大学大学院",
+        "department": "映像・写真コース",
         "seminar": "篠原ゼミ",
         "title": "時",
         "videoduration": 107,
@@ -305,8 +305,8 @@
     },
 	{
         "name": "ショウ コウハ",
-		"school": "武蔵野美術大学",
-        "department": "映像学科",
+		    "school": "武蔵野美術大学大学院",
+        "department": "映像・写真コース",
         "seminar": "山崎ゼミ",
         "title": "BOOM",
         "videoduration": 180,
@@ -321,7 +321,7 @@
     },
 	{
         "name": "増田 玄太・村松 知明",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "デザイン情報学科",
         "seminar": "",
         "title": "記号化する音",
@@ -337,7 +337,7 @@
     },
 	{
         "name": "リ ジン",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "映像学科",
         "seminar": "山崎ゼミ",
         "title": "Decadence",
@@ -353,8 +353,8 @@
     },
 	{
         "name": "ハン ハンテイン・オウ ソウ",
-		"school": "武蔵野美術大学",
-        "department": "映像学科",
+		    "school": "武蔵野美術大学大学院",
+        "department": "映像・写真コース",
         "seminar": "篠原ゼミ",
         "title": "海",
         "videoduration": 85,
@@ -369,8 +369,8 @@
     },
 	{
         "name": "タン シシン",
-		"school": "武蔵野美術大学",
-        "department": "映像学科",
+		    "school": "武蔵野美術大学大学院",
+        "department": "映像・写真コース",
         "seminar": "篠原ゼミ",
         "title": "under the",
         "videoduration": 185,
@@ -385,8 +385,8 @@
     },
 	{
         "name": "ギュウ イセン",
-		"school": "武蔵野美術大学",
-        "department": "映像学科",
+		    "school": "武蔵野美術大学大学院",
+        "department": "映像・写真コース",
         "seminar": "篠原ゼミ",
         "title": "Cosmic Eye",
         "videoduration": 100,
@@ -401,7 +401,7 @@
     },
 	{
         "name": "池田 遥菜",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "デザイン情報学科",
         "seminar": "大石ゼミ",
         "title": "Decadence",
@@ -417,7 +417,7 @@
     },
 	{
         "name": "大石 啓明",
-		"school": "武蔵野美術大学",
+		    "school": "武蔵野美術大学",
         "department": "デザイン情報学科",
         "seminar": "大石ゼミ",
         "title": "Life Elevation",
