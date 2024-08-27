@@ -6,21 +6,25 @@ body {
 }
 
 h1 {
-	text-align:center;
+	text-align:left;
+    font-size: 2.0em;
+    font-weight: 400;
 }
 
 h2 {
     font-weight: 200;
-	text-align:center;
-    background-color: #251342;
-    
+    text-align:left;
+    background-color: #1e1f68;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1px;
+    padding-bottom: 5px;
 }
 
-h3 {
-
+.schedule-musabi {
+    font-size:0.2em;
+    color: #AAA;
 }
-
-
 
 .schedule {
     font-size:0.8em;
