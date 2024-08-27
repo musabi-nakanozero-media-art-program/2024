@@ -21,17 +21,26 @@ h2 {
     padding-bottom: 5px;
 }
 
+.event-info {
+    margin: 4px;
+}
+
 .schedule-musabi {
-    font-size:0.2em;
+    font-size:6pt;
+    color: #AAA;
+}
+
+.schedule-musabi-atten {
+    font-size:6pt;
     color: #AAA;
 }
 
 .schedule {
-    font-size:0.8em;
+    font-size:8pt;
 }
 
 .event-info-web p, a {
-    font-size:0.8em;
+    font-size: 8pt;
     display: inline;
 }
 
