@@ -1,0 +1,101 @@
+body {
+    font-family: 'Noto Sans', sans-serif; /* フォールバックとしてsans-serifを指定 */
+    background-color:#202020;
+	color:#DDDDDD;
+	margin: 5%;
+}
+
+h1 {
+	text-align:center;
+}
+
+h2 {
+    font-weight: 200;
+	text-align:center;
+    background-color: #251342;
+    
+}
+
+h3 {
+
+}
+
+
+
+.schedule {
+    font-size:0.8em;
+}
+
+.event-info-web p, a {
+    font-size:0.8em;
+    display: inline;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #696969;
+    padding-bottom: 20px;
+ 
+    margin-bottom: 0%; 
+}
+
+.cotent-index {
+    font-size: 1.5em;
+    color: #CCC;
+
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+.images {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.text {
+    flex: 1.5;
+}
+
+.key-visual img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.sub-visuals {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 10px;
+}
+
+.sub-visuals img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.creator {
+    font-size: 1.3em;  /* 少し大きめ */
+    font-weight: bold;
+    color: #CCC;
+}
+
+.title {
+    font-size: 1.6666666em;  /* さらに大きく、タイトルを目立たせる */
+    font-weight: bold;
+    color: #CCC;
+}
+
+.duration {
+    font-size: 1.0em;  /* 標準サイズ */
+    color: #CCC;
+}
+
+.othercredits {
+	font-size: 1.0em;  /* 標準サイズ */
+    color: #63a895;
+}
+
