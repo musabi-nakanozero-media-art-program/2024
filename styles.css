@@ -2,7 +2,7 @@ body {
     font-family: 'Noto Sans', sans-serif; /* フォールバックとしてsans-serifを指定 */
     background-color:#202020;
 	color:#DDDDDD;
-	margin: 5%;
+    margin : 20px;
 }
 
 h1 {
@@ -17,30 +17,28 @@ h2 {
     background-color: #1e1f68;
     padding-left: 10px;
     padding-right: 10px;
-    padding-top: 1px;
+    padding-top: 2px;
     padding-bottom: 5px;
 }
 
 .event-info {
     margin: 4px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.schedule-text {
+    word-wrap: break-word; /* 折り返しを有効にする */
+    display: block;
+    line-height: 1.2; /* 行間を調整 */
 }
 
 .schedule-musabi {
-    font-size:6pt;
-    color: #AAA;
+    color: #797979;
 }
 
-.schedule-musabi-atten {
-    font-size:6pt;
-    color: #AAA;
-}
-
-.schedule {
-    font-size:8pt;
-}
 
 .event-info-web p, a {
-    font-size: 8pt;
     display: inline;
 }
 
@@ -49,15 +47,13 @@ h2 {
     justify-content: space-between;
     margin-bottom: 40px;
     border-bottom: 1px solid #696969;
-    padding-bottom: 20px;
- 
+    padding-bottom: 20px; 
     margin-bottom: 0%; 
 }
 
 .cotent-index {
     font-size: 1.5em;
     color: #CCC;
-
     margin-top: 2%;
     margin-bottom: 1%;
 }
@@ -109,6 +105,6 @@ h2 {
 
 .othercredits {
 	font-size: 1.0em;  /* 標準サイズ */
-    color: #63a895;
+    color: #18ae68;
 }
 
